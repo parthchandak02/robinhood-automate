@@ -1,5 +1,6 @@
 # sensitive environment information
 .env
+.test.env
 data.pickle
 
 # build and distribution files that are auto-generated
